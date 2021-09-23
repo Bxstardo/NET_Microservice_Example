@@ -1,0 +1,12 @@
+C:\Users\bxstardo\source\repos\Elementic.Comments\CommentStore.Core\bin\Debug\net5.0\CommentStore.Core.deps.json
+C:\Users\bxstardo\source\repos\Elementic.Comments\CommentStore.Core\bin\Debug\net5.0\CommentStore.Core.dll
+C:\Users\bxstardo\source\repos\Elementic.Comments\CommentStore.Core\bin\Debug\net5.0\ref\CommentStore.Core.dll
+C:\Users\bxstardo\source\repos\Elementic.Comments\CommentStore.Core\bin\Debug\net5.0\CommentStore.Core.pdb
+C:\Users\bxstardo\source\repos\Elementic.Comments\CommentStore.Core\obj\Debug\net5.0\CommentStore.Core.csproj.AssemblyReference.cache
+C:\Users\bxstardo\source\repos\Elementic.Comments\CommentStore.Core\obj\Debug\net5.0\CommentStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bxstardo\source\repos\Elementic.Comments\CommentStore.Core\obj\Debug\net5.0\CommentStore.Core.AssemblyInfoInputs.cache
+C:\Users\bxstardo\source\repos\Elementic.Comments\CommentStore.Core\obj\Debug\net5.0\CommentStore.Core.AssemblyInfo.cs
+C:\Users\bxstardo\source\repos\Elementic.Comments\CommentStore.Core\obj\Debug\net5.0\CommentStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\bxstardo\source\repos\Elementic.Comments\CommentStore.Core\obj\Debug\net5.0\CommentStore.Core.dll
+C:\Users\bxstardo\source\repos\Elementic.Comments\CommentStore.Core\obj\Debug\net5.0\ref\CommentStore.Core.dll
+C:\Users\bxstardo\source\repos\Elementic.Comments\CommentStore.Core\obj\Debug\net5.0\CommentStore.Core.pdb
